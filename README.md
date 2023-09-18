@@ -1,4 +1,5 @@
 # isonnymichael.github.io
 Portofolio
-    - dev 1
-    - tutorial smkn 1 pangkep
+    - supriadi
+    - Teknik Jaringan
+    - SMK N 2 Lubuk Basung
